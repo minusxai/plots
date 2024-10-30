@@ -9,3 +9,6 @@ An exploration of the number of Decamillionaires* in each US state per 10,000 pe
 # Sources
 * [IRS Personal Wealth Statistics](https://www.irs.gov/statistics/soi-tax-stats-personal-wealth-statistics)
 * [US census state-wise population](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)
+
+# Setup
+You can use [our hosted JupyterLite](https://minusxai.github.io/jupyterlite/lab/index.html) to run the ipynb notebook. Just drop the `data.csv` file and the `decamillionaires.ipynb` file onto the left side file explorer and run each cell.
