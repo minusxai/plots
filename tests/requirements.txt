@@ -1,4 +1,0 @@
-# Editable input; CI installs requirements.lock.txt.
-plotly==5.17.0
-pandas
-numpy
